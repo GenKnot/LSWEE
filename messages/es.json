@@ -1,0 +1,253 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "products": "Productos",
+    "industries": "Industrias",
+    "innovation": "Innovación",
+    "partnerships": "Asociaciones",
+    "contact": "Contáctenos",
+    "solutions": "Soluciones",
+    "advantages": "Ventajas",
+    "team": "Equipo"
+  },
+  "home": {
+    "hero": {
+      "title": "Revolucionando la Fabricación de Precisión",
+      "subtitle": "Proveedor líder mundial de equipos inteligentes de soldadura láser",
+      "cta": "Explorar Soluciones",
+      "cta2": "Saber Más"
+    },
+    "company": {
+      "subtitle": "Acerca de LSWEE",
+      "title": "Liderando la Nueva Era de la Fabricación Inteligente",
+      "description": "Con raíces en una colaboración visionaria con la Universidad de Tecnología de Wuhan, LSWEE se dedica a revolucionar la fabricación. Proporcionamos máquinas inteligentes de soldadura láser y soluciones de automatización personalizadas, aspirando a ser el proveedor líder mundial de equipos de soldadura láser y un pionero en soluciones de fabricación inteligente.",
+      "mission": {
+        "title": "Nuestra Misión",
+        "description": "Resolver los cuellos de botella técnicos de los métodos tradicionales de soldadura a través de sistemas inteligentes de control de soldadura láser, proporcionando un apoyo técnico excepcional para la fabricación de precisión."
+      },
+      "vision": {
+        "title": "Nuestra Visión",
+        "description": "Convertirse en líder mundial en tecnología de soldadura láser, impulsando la innovación tecnológica en microelectrónica, conectores y comunicación óptica."
+      },
+      "partnership": {
+        "title": "Base de Asociación Sólida",
+        "description": "Profunda colaboración con la Universidad de Tecnología de Wuhan y la Universidad de Ciencia y Tecnología de Huazhong, construyendo un sistema de innovación integrado con 22 patentes concedidas y 20 patentes en proceso."
+      }
+    },
+    "challenges": {
+      "subtitle": "Puntos de Dolor de la Industria",
+      "title": "Desafíos en la Soldadura Tradicional",
+      "description": "Con la miniaturización de dispositivos electrónicos y las crecientes demandas de interconexión de alta densidad, los métodos tradicionales de soldadura ya no pueden cumplir con los requisitos modernos de fabricación de precisión.",
+      "items": [
+        {
+          "title": "Miniaturización de Dispositivos",
+          "description": "La reducción continua de volúmenes de dispositivos y circuitos electrónicos plantea requisitos sin precedentes para la precisión y confiabilidad de la soldadura."
+        },
+        {
+          "title": "Interconexión de Alta Densidad",
+          "description": "Lograr una soldadura precisa con espaciado a nivel de micrones mientras se evita el puenteo y la interferencia requiere sistemas de control más inteligentes."
+        },
+        {
+          "title": "Cuello de Botella en Control de Calidad",
+          "description": "El control preciso durante la soldadura láser es crucial para garantizar la calidad del producto, pero los métodos tradicionales tienen dificultades para lograr esto."
+        }
+      ]
+    },
+    "solutions": {
+      "subtitle": "Nuestras Soluciones",
+      "title": "Sistema Inteligente de Soldadura Láser",
+      "description": "El sistema de control de soldadura láser inteligente de LSWEE resuelve completamente los desafíos técnicos de la soldadura tradicional a través de control preciso de temperatura y procesos automatizados.",
+      "items": [
+        {
+          "title": "Soporte de Procesamiento de Precisión",
+          "description": "Proporciona un potente soporte técnico para el procesamiento y fabricación de precisión de productos microelectrónicos, cumpliendo con los requisitos de proceso más estrictos."
+        },
+        {
+          "title": "Control Inteligente de Temperatura",
+          "description": "Los algoritmos centrales logran un control preciso de la soldadura láser, reduciendo significativamente el impacto térmico y asegurando la calidad y confiabilidad de la soldadura."
+        },
+        {
+          "title": "Aplicaciones Multi-Dominio",
+          "description": "Ampliamente aplicado en microelectrónica, conectores y comunicación óptica, convirtiéndose en la opción confiable para la fabricación de precisión."
+        }
+      ]
+    },
+    "advantages": {
+      "subtitle": "Ventajas Principales",
+      "title": "Por Qué Elegir LSWEE",
+      "description": "Nuestra innovación tecnológica y equipo profesional aseguran soluciones líderes en la industria de soldadura láser para nuestros clientes.",
+      "items": [
+        {
+          "title": "Sistema de Control Inteligente",
+          "description": "Sistema de control de soldadura láser propietario que reduce drásticamente el impacto térmico en las piezas de trabajo, garantizando la calidad de la soldadura."
+        },
+        {
+          "title": "Precisión en Uniones Pequeñas",
+          "description": "Especializado en soldadura a nivel de micrones de conectores y placas de circuitos flexibles, reduciendo efectivamente los fenómenos de puenteo."
+        },
+        {
+          "title": "Tecnología Adaptativa",
+          "description": "Lente láser revolucionaria tres en uno que integra láser, medición de temperatura e imágenes para una automatización completa."
+        },
+        {
+          "title": "Innovación con Visión de Futuro",
+          "description": "I+D continua para satisfacer las necesidades de industrias emergentes como IoT, IA y nueva energía."
+        }
+      ]
+    },
+    "stats": {
+      "subtitle": "En Números",
+      "title": "Nuestros Logros",
+      "items": [
+        {
+          "value": "22+",
+          "label": "Patentes Concedidas"
+        },
+        {
+          "value": "20+",
+          "label": "Patentes en Proceso"
+        },
+        {
+          "value": "$102M",
+          "label": "Ingresos Proyectados a 5 Años"
+        },
+        {
+          "value": "67%+",
+          "label": "Margen de Beneficio Neto Esperado"
+        }
+      ]
+    },
+    "team": {
+      "subtitle": "Equipo Profesional",
+      "title": "Equipo Directivo Experimentado",
+      "description": "Nuestro equipo de gestión posee profundos antecedentes en la industria y perspectivas internacionales, comprometidos con impulsar la innovación en tecnología de soldadura láser.",
+      "members": [
+        {
+          "name": "Dr. Liu",
+          "title": "Asesor Jefe de Tecnología",
+          "description": "Experto reconocido en soldadura láser con contribuciones sobresalientes en procesamiento de precisión e investigación de materiales.",
+          "initials": "DL"
+        },
+        {
+          "name": "Ray Yam",
+          "title": "Director Ejecutivo",
+          "description": "30 años de experiencia en electrónica de consumo, ex ejecutivo de múltiples empresas reconocidas, experto en operaciones comerciales interculturales.",
+          "initials": "RY"
+        },
+        {
+          "name": "Yiwei Li",
+          "title": "Director de Operaciones",
+          "description": "Experto senior en la industria TIC, especializado en desarrollo comercial gubernamental y corporativo y expansión del mercado internacional.",
+          "initials": "YL"
+        },
+        {
+          "name": "Ziting Wang",
+          "title": "Director de Marketing",
+          "description": "Maestría en Economía, amplia experiencia en proyectos de marketing y análisis estratégico en diversos mercados, incluido América del Norte.",
+          "initials": "ZW"
+        },
+        {
+          "name": "Yufei Mou",
+          "title": "Director Financiero",
+          "description": "Director del Fondo de Inversión en Innovación de China Resources, amplia experiencia en operaciones de capital y gestión de inversiones.",
+          "initials": "YM"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Inicie Su Viaje de Fabricación Inteligente",
+      "description": "Participe con LSWEE para acceder a soluciones líderes en la industria de soldadura láser que mejoran su eficiencia de producción y calidad del producto.",
+      "primary": "Contáctenos",
+      "secondary": "Descargar Folleto"
+    },
+    "market": {
+      "subtitle": "Oportunidad de Mercado",
+      "title": "Demanda Creciente en Industrias Emergentes",
+      "description": "El auge de industrias emergentes como IoT, conducción autónoma e inteligencia artificial ha catalizado una demanda creciente de sensores de alto rendimiento, chips de procesamiento de almacenamiento y circuitos integrados miniaturizados.",
+      "marketSize": {
+        "value": "$1,76Md",
+        "label": "Valor de Mercado Proyectado para 2029"
+      },
+      "cagr": {
+        "value": "4,10%",
+        "label": "CAGR (2022-2029)"
+      },
+      "regions": [
+        {
+          "title": "América del Norte",
+          "share": "27%+",
+          "description": "Domina con la mayor participación de mercado, impulsado por la creciente demanda de mayor productividad en operaciones de soldadura."
+        },
+        {
+          "title": "Asia-Pacífico",
+          "share": "24,6%",
+          "description": "China emerge como el actor clave, atribuido a su sector manufacturero expansivo y el mercado automotriz más grande del mundo."
+        },
+        {
+          "title": "Europa",
+          "share": "30%",
+          "description": "Preparado para un crecimiento lucrativo, especialmente en Alemania, España y Francia con sus sectores automotrices bien establecidos."
+        }
+      ]
+    },
+    "productProps": {
+      "subtitle": "Proposiciones de Producto",
+      "title": "Soluciones Tecnológicas Revolucionarias",
+      "description": "Nuestras soluciones innovadoras de soldadura láser abordan los desafíos fundamentales de la industria a través de cuatro proposiciones centrales.",
+      "items": [
+        {
+          "title": "Revolucionando el Método Tradicional",
+          "description": "Optimizando procesos, reduciendo costos y simplificando operaciones para remodelar fundamentalmente el panorama de las prácticas de soldadura láser para un futuro más eficiente y rentable."
+        },
+        {
+          "title": "Precisión Adaptativa en Control de Temperatura",
+          "description": "Tecnología innovadora de control de temperatura adaptativa que responde a la emisividad variable del material, asegurando una gestión precisa de la temperatura que se ajusta perfectamente a las propiedades distintivas del material."
+        },
+        {
+          "title": "Eficiencia de Soldadura mediante Automatización",
+          "description": "Soluciones prácticas que permiten la soldadura automática para diversos objetos de procesamiento, reduciendo la necesidad de supervisión humana constante y simplificando exhaustivamente los flujos de trabajo."
+        },
+        {
+          "title": "La Versatilidad de la Lente Láser Tres en Uno",
+          "description": "Lente láser revolucionaria tres en uno que integra tecnología láser, capacidades de medición de temperatura y una cámara incorporada, significando un cambio hacia operaciones totalmente automáticas."
+        }
+      ]
+    },
+    "contact": {
+      "subtitle": "Póngase en Contacto",
+      "title": "Construyamos Algo Grande Juntos",
+      "description": "¿Listo para transformar su proceso de fabricación? Comuníquese con nuestro equipo para discutir cómo nuestras soluciones de soldadura láser pueden elevar su producción.",
+      "email": {
+        "label": "Correo Electrónico"
+      },
+      "form": {
+        "title": "Envíenos un Mensaje",
+        "name": "Nombre",
+        "namePlaceholder": "Su nombre",
+        "email": "Correo Electrónico",
+        "emailPlaceholder": "su.correo@ejemplo.com",
+        "subject": "Asunto",
+        "subjectPlaceholder": "¿En qué podemos ayudarle?",
+        "message": "Mensaje",
+        "messagePlaceholder": "Cuéntenos sobre su proyecto o consulta...",
+        "submit": "Enviar Mensaje",
+        "submitting": "Enviando...",
+        "success": "¡Mensaje enviado con éxito! Nos pondremos en contacto pronto."
+      }
+    }
+  },
+  "footer": {
+    "description": "Proveedor líder mundial de equipos inteligentes de soldadura láser. Revolucionando la fabricación de precisión a través de tecnología innovadora.",
+    "quickLinks": "Enlaces Rápidos",
+    "more": "Más",
+    "copyright": "© {year} LSWEE. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "metadata": {
+    "title": "LSWEE - Proveedor Líder Mundial de Equipos Inteligentes de Soldadura Láser",
+    "description": "Revolucionando la fabricación de precisión con sistemas inteligentes de soldadura láser. Proveedor líder mundial de soluciones de fabricación automatizada para microelectrónica, conectores y comunicaciones ópticas."
+  }
+}
+

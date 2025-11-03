@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "industries": "Industries",
+    "innovation": "Innovation",
+    "partnerships": "Partnerships",
+    "contact": "Contact Us",
+    "solutions": "Solutions",
+    "advantages": "Advantages",
+    "team": "Team"
+  },
+  "home": {
+    "hero": {
+      "title": "Revolutionizing Precision Manufacturing",
+      "subtitle": "Leading global supplier of intelligent laser soldering equipment",
+      "cta": "Explore Solutions",
+      "cta2": "Learn More"
+    },
+    "company": {
+      "subtitle": "About LSWEE",
+      "title": "Leading the New Era of Smart Manufacturing",
+      "description": "Rooted in a visionary collaboration with Wuhan University of Technology, LSWEE is dedicated to revolutionizing manufacturing. We provide intelligent laser soldering machines and customized automation solutions, aspiring to be the leading global supplier of laser soldering equipment and a pioneer in intelligent manufacturing solutions.",
+      "mission": {
+        "title": "Our Mission",
+        "description": "To solve the technical bottlenecks of traditional soldering methods through intelligent laser welding control systems, providing exceptional technical support for precision manufacturing."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "To become a global leader in laser soldering technology, driving technological innovation in microelectronics, connectors, and optical communication."
+      },
+      "partnership": {
+        "title": "Strong Partnership Foundation",
+        "description": "Deep collaboration with Wuhan University of Technology and Huazhong University of Science and Technology, building an integrated innovation system with 22 granted patents and 20 patents in progress."
+      }
+    },
+    "challenges": {
+      "subtitle": "Industry Pain Points",
+      "title": "Challenges in Traditional Soldering",
+      "description": "With the miniaturization of electronic devices and growing high-density interconnection demands, traditional soldering methods can no longer meet modern precision manufacturing requirements.",
+      "items": [
+        {
+          "title": "Device Miniaturization",
+          "description": "The continuous reduction in electronic device and circuit volumes poses unprecedented requirements for soldering precision and reliability."
+        },
+        {
+          "title": "High-Density Interconnection",
+          "description": "Achieving precise soldering at micron-level spacing while avoiding bridging and interference requires more intelligent control systems."
+        },
+        {
+          "title": "Quality Control Bottleneck",
+          "description": "Precise control during laser welding is crucial for ensuring product quality, but traditional methods struggle to achieve this."
+        }
+      ]
+    },
+    "solutions": {
+      "subtitle": "Our Solutions",
+      "title": "Intelligent Laser Soldering System",
+      "description": "LSWEE's intelligent laser welding control system completely solves the technical challenges of traditional soldering through precise temperature control and automated processes.",
+      "items": [
+        {
+          "title": "Precision Processing Support",
+          "description": "Provides powerful technical support for precision processing and manufacturing of microelectronic products, meeting the most stringent process requirements."
+        },
+        {
+          "title": "Intelligent Temperature Control",
+          "description": "Core algorithms achieve precise control of laser welding, significantly reducing thermal impact and ensuring welding quality and reliability."
+        },
+        {
+          "title": "Multi-Domain Applications",
+          "description": "Widely applied in microelectronics, connectors, and optical communication, becoming the reliable choice for precision manufacturing."
+        }
+      ]
+    },
+    "advantages": {
+      "subtitle": "Core Advantages",
+      "title": "Why Choose LSWEE",
+      "description": "Our technological innovation and professional team ensure industry-leading laser soldering solutions for our customers.",
+      "items": [
+        {
+          "title": "Intelligent Control System",
+          "description": "Proprietary laser welding control system that dramatically reduces thermal impact on workpieces, ensuring welding quality."
+        },
+        {
+          "title": "Small Joint Precision",
+          "description": "Specialized in micron-level soldering of connectors and flexible circuit boards, effectively reducing bridging phenomena."
+        },
+        {
+          "title": "Adaptive Technology",
+          "description": "Revolutionary three-in-one laser lens integrating laser, temperature measurement, and imaging for full automation."
+        },
+        {
+          "title": "Forward-Looking Innovation",
+          "description": "Continuous R&D to meet the needs of emerging industries like IoT, AI, and new energy."
+        }
+      ]
+    },
+    "stats": {
+      "subtitle": "By The Numbers",
+      "title": "Our Achievements",
+      "items": [
+        {
+          "value": "22+",
+          "label": "Granted Patents"
+        },
+        {
+          "value": "20+",
+          "label": "Patents In Progress"
+        },
+        {
+          "value": "$102M",
+          "label": "5-Year Projected Revenue"
+        },
+        {
+          "value": "67%+",
+          "label": "Expected Net Profit Margin"
+        }
+      ]
+    },
+    "team": {
+      "subtitle": "Professional Team",
+      "title": "Experienced Leadership Team",
+      "description": "Our management team possesses deep industry backgrounds and international perspectives, committed to driving innovation in laser soldering technology.",
+      "members": [
+        {
+          "name": "Dr. Liu",
+          "title": "Chief Technology Advisor",
+          "description": "Renowned laser soldering expert with outstanding contributions in precision processing and materials research.",
+          "initials": "DL"
+        },
+        {
+          "name": "Ray Yam",
+          "title": "Chief Executive Officer",
+          "description": "30 years of consumer electronics experience, former executive at multiple renowned companies, expert in cross-cultural business operations.",
+          "initials": "RY"
+        },
+        {
+          "name": "Yiwei Li",
+          "title": "Chief Operating Officer",
+          "description": "Senior ICT industry expert, specialized in government and corporate business development and international market expansion.",
+          "initials": "YL"
+        },
+        {
+          "name": "Ziting Wang",
+          "title": "Chief Marketing Officer",
+          "description": "Master's in Economics, extensive experience in marketing projects and strategic analysis across diverse markets including North America.",
+          "initials": "ZW"
+        },
+        {
+          "name": "Yufei Mou",
+          "title": "Chief Financial Officer",
+          "description": "Director at China Resources Innovation Investment Fund, extensive experience in capital operations and investment management.",
+          "initials": "YM"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Start Your Smart Manufacturing Journey",
+      "description": "Partner with LSWEE to access industry-leading laser soldering solutions that enhance your production efficiency and product quality.",
+      "primary": "Contact Us",
+      "secondary": "Download Brochure"
+    },
+    "market": {
+      "subtitle": "Market Opportunity",
+      "title": "Growing Demand in Emerging Industries",
+      "description": "The surge in emerging industries such as IoT, unmanned driving, and artificial intelligence has catalyzed a growing demand for high-performance sensors, storage processing chips, and miniaturized integrated circuits.",
+      "marketSize": {
+        "value": "$1.76B",
+        "label": "Projected Market Value by 2029"
+      },
+      "cagr": {
+        "value": "4.10%",
+        "label": "CAGR (2022-2029)"
+      },
+      "regions": [
+        {
+          "title": "North America",
+          "share": "27%+",
+          "description": "Dominates with the largest market share, driven by increasing demand for enhanced productivity in welding operations."
+        },
+        {
+          "title": "Asia-Pacific",
+          "share": "24.6%",
+          "description": "China emerges as the key player, attributed to its expansive manufacturing sector and the world's largest automobile market."
+        },
+        {
+          "title": "Europe",
+          "share": "30%",
+          "description": "Poised for lucrative growth, especially in Germany, Spain, and France with their well-established automotive sectors."
+        }
+      ]
+    },
+    "productProps": {
+      "subtitle": "Product Propositions",
+      "title": "Revolutionary Technology Solutions",
+      "description": "Our innovative laser soldering solutions address fundamental industry challenges through four core propositions.",
+      "items": [
+        {
+          "title": "Revolutionizing Traditional Method",
+          "description": "Streamlining processes, reducing costs, and simplifying operations to fundamentally reshape the landscape of laser welding practices for a more efficient and cost-effective future."
+        },
+        {
+          "title": "Adaptive Precision in Temperature Control",
+          "description": "Innovative adaptive temperature control technology that responds to varying material emissivity, ensuring accurate temperature management that seamlessly adjusts to distinctive material properties."
+        },
+        {
+          "title": "Soldering Efficiency through Automation",
+          "description": "Practical solutions enabling automatic welding for diverse processing objects, reducing the need for constant human oversight and comprehensively simplifying workflows."
+        },
+        {
+          "title": "The Versatility of Three-in-One Laser Lens",
+          "description": "Revolutionary three-in-one laser lens integrating laser technology, temperature measurement capabilities, and a built-in camera, signifying a shift towards fully automatic operations."
+        }
+      ]
+    },
+    "contact": {
+      "subtitle": "Get In Touch",
+      "title": "Let's Build Something Great Together",
+      "description": "Ready to transform your manufacturing process? Reach out to our team to discuss how our laser soldering solutions can elevate your production.",
+      "email": {
+        "label": "Email"
+      },
+      "form": {
+        "title": "Send us a Message",
+        "name": "Name",
+        "namePlaceholder": "Your name",
+        "email": "Email",
+        "emailPlaceholder": "your.email@example.com",
+        "subject": "Subject",
+        "subjectPlaceholder": "What can we help you with?",
+        "message": "Message",
+        "messagePlaceholder": "Tell us about your project or inquiry...",
+        "submit": "Send Message",
+        "submitting": "Sending...",
+        "success": "Message sent successfully! We'll get back to you soon."
+      }
+    }
+  },
+  "footer": {
+    "description": "Leading global supplier of intelligent laser soldering equipment. Revolutionizing precision manufacturing through innovative technology.",
+    "quickLinks": "Quick Links",
+    "more": "More",
+    "copyright": "© {year} LSWEE. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "metadata": {
+    "title": "LSWEE - Leading Global Supplier of Intelligent Laser Soldering Equipment",
+    "description": "Revolutionizing precision manufacturing with intelligent laser soldering systems. Leading global supplier of automated manufacturing solutions for microelectronics, connectors, and optical communication."
+  }
+}

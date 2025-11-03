@@ -1,0 +1,253 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "products": "Produtos",
+    "industries": "Indústrias",
+    "innovation": "Inovação",
+    "partnerships": "Parcerias",
+    "contact": "Entre em Contato",
+    "solutions": "Soluções",
+    "advantages": "Vantagens",
+    "team": "Equipe"
+  },
+  "home": {
+    "hero": {
+      "title": "Revolucionando a Fabricação de Precisão",
+      "subtitle": "Fornecedor líder global de equipamentos inteligentes de soldagem a laser",
+      "cta": "Explorar Soluções",
+      "cta2": "Saber Mais"
+    },
+    "company": {
+      "subtitle": "Sobre LSWEE",
+      "title": "Liderando a Nova Era da Fabricação Inteligente",
+      "description": "Com raízes em uma colaboração visionária com a Universidade de Tecnologia de Wuhan, a LSWEE dedica-se a revolucionar a fabricação. Fornecemos máquinas inteligentes de soldagem a laser e soluções de automação personalizadas, aspirando a ser o fornecedor líder global de equipamentos de soldagem a laser e pioneiro em soluções de fabricação inteligente.",
+      "mission": {
+        "title": "Nossa Missão",
+        "description": "Resolver os gargalos técnicos dos métodos tradicionais de soldagem através de sistemas inteligentes de controle de soldagem a laser, fornecendo suporte técnico excepcional para fabricação de precisão."
+      },
+      "vision": {
+        "title": "Nossa Visão",
+        "description": "Tornar-se líder global em tecnologia de soldagem a laser, impulsionando a inovação tecnológica em microeletrônica, conectores e comunicação óptica."
+      },
+      "partnership": {
+        "title": "Base de Parceria Forte",
+        "description": "Profunda colaboração com a Universidade de Tecnologia de Wuhan e a Universidade de Ciência e Tecnologia de Huazhong, construindo um sistema de inovação integrado com 22 patentes concedidas e 20 patentes em andamento."
+      }
+    },
+    "challenges": {
+      "subtitle": "Pontos de Dor da Indústria",
+      "title": "Desafios na Soldagem Tradicional",
+      "description": "Com a miniaturização de dispositivos eletrônicos e as crescentes demandas de interconexão de alta densidade, os métodos tradicionais de soldagem não podem mais atender aos requisitos modernos de fabricação de precisão.",
+      "items": [
+        {
+          "title": "Miniaturização de Dispositivos",
+          "description": "A redução contínua de volumes de dispositivos e circuitos eletrônicos impõe requisitos sem precedentes para precisão e confiabilidade da soldagem."
+        },
+        {
+          "title": "Interconexão de Alta Densidade",
+          "description": "Alcançar soldagem precisa com espaçamento a nível de mícrons, evitando ponteamento e interferência, requer sistemas de controle mais inteligentes."
+        },
+        {
+          "title": "Gargalo no Controle de Qualidade",
+          "description": "O controle preciso durante a soldagem a laser é crucial para garantir a qualidade do produto, mas os métodos tradicionais têm dificuldade em alcançar isso."
+        }
+      ]
+    },
+    "solutions": {
+      "subtitle": "Nossas Soluções",
+      "title": "Sistema Inteligente de Soldagem a Laser",
+      "description": "O sistema de controle de soldagem a laser inteligente da LSWEE resolve completamente os desafios técnicos da soldagem tradicional através de controle preciso de temperatura e processos automatizados.",
+      "items": [
+        {
+          "title": "Suporte de Processamento de Precisão",
+          "description": "Fornece poderoso suporte técnico para processamento e fabricação de precisão de produtos microeletrônicos, atendendo aos requisitos de processo mais rigorosos."
+        },
+        {
+          "title": "Controle Inteligente de Temperatura",
+          "description": "Algoritmos centrais alcançam controle preciso da soldagem a laser, reduzindo significativamente o impacto térmico e garantindo qualidade e confiabilidade da soldagem."
+        },
+        {
+          "title": "Aplicações Multi-Domínio",
+          "description": "Amplamente aplicado em microeletrônica, conectores e comunicação óptica, tornando-se a escolha confiável para fabricação de precisão."
+        }
+      ]
+    },
+    "advantages": {
+      "subtitle": "Vantagens Principais",
+      "title": "Por Que Escolher LSWEE",
+      "description": "Nossa inovação tecnológica e equipe profissional garantem soluções líderes da indústria de soldagem a laser para nossos clientes.",
+      "items": [
+        {
+          "title": "Sistema de Controle Inteligente",
+          "description": "Sistema de controle de soldagem a laser proprietário que reduz drasticamente o impacto térmico nas peças de trabalho, garantindo qualidade da soldagem."
+        },
+        {
+          "title": "Precisão em Juntas Pequenas",
+          "description": "Especializado em soldagem a nível de mícrons de conectores e placas de circuito flexíveis, reduzindo efetivamente os fenômenos de ponteamento."
+        },
+        {
+          "title": "Tecnologia Adaptativa",
+          "description": "Lente a laser revolucionária três em um que integra laser, medição de temperatura e imagens para automação completa."
+        },
+        {
+          "title": "Inovação com Visão de Futuro",
+          "description": "P&D contínua para atender às necessidades de indústrias emergentes como IoT, IA e nova energia."
+        }
+      ]
+    },
+    "stats": {
+      "subtitle": "Em Números",
+      "title": "Nossas Conquistas",
+      "items": [
+        {
+          "value": "22+",
+          "label": "Patentes Concedidas"
+        },
+        {
+          "value": "20+",
+          "label": "Patentes em Andamento"
+        },
+        {
+          "value": "$102M",
+          "label": "Receita Projetada de 5 Anos"
+        },
+        {
+          "value": "67%+",
+          "label": "Margem de Lucro Líquido Esperada"
+        }
+      ]
+    },
+    "team": {
+      "subtitle": "Equipe Profissional",
+      "title": "Equipe de Liderança Experiente",
+      "description": "Nossa equipe de gestão possui profundos conhecimentos da indústria e perspectivas internacionais, comprometidos em impulsionar a inovação em tecnologia de soldagem a laser.",
+      "members": [
+        {
+          "name": "Dr. Liu",
+          "title": "Consultor Chefe de Tecnologia",
+          "description": "Especialista renomado em soldagem a laser com contribuições excepcionais em processamento de precisão e pesquisa de materiais.",
+          "initials": "DL"
+        },
+        {
+          "name": "Ray Yam",
+          "title": "Diretor Executivo",
+          "description": "30 anos de experiência em eletrônicos de consumo, ex-executivo de várias empresas renomadas, especialista em operações comerciais interculturais.",
+          "initials": "RY"
+        },
+        {
+          "name": "Yiwei Li",
+          "title": "Diretor de Operações",
+          "description": "Especialista sênior da indústria TIC, especializado em desenvolvimento comercial governamental e corporativo e expansão de mercado internacional.",
+          "initials": "YL"
+        },
+        {
+          "name": "Ziting Wang",
+          "title": "Diretor de Marketing",
+          "description": "Mestrado em Economia, ampla experiência em projetos de marketing e análise estratégica em diversos mercados, incluindo América do Norte.",
+          "initials": "ZW"
+        },
+        {
+          "name": "Yufei Mou",
+          "title": "Diretor Financeiro",
+          "description": "Diretor do Fundo de Investimento em Inovação da China Resources, ampla experiência em operações de capital e gestão de investimentos.",
+          "initials": "YM"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Inicie Sua Jornada de Fabricação Inteligente",
+      "description": "Faça parceria com a LSWEE para acessar soluções líderes da indústria de soldagem a laser que aumentam sua eficiência de produção e qualidade do produto.",
+      "primary": "Entre em Contato",
+      "secondary": "Baixar Folheto"
+    },
+    "market": {
+      "subtitle": "Oportunidade de Mercado",
+      "title": "Demanda Crescente em Indústrias Emergentes",
+      "description": "O aumento de indústrias emergentes como IoT, direção autônoma e inteligência artificial catalisou uma demanda crescente por sensores de alto desempenho, chips de processamento de armazenamento e circuitos integrados miniaturizados.",
+      "marketSize": {
+        "value": "$1,76Bi",
+        "label": "Valor de Mercado Projetado para 2029"
+      },
+      "cagr": {
+        "value": "4,10%",
+        "label": "CAGR (2022-2029)"
+      },
+      "regions": [
+        {
+          "title": "América do Norte",
+          "share": "27%+",
+          "description": "Domina com a maior participação de mercado, impulsionado pela crescente demanda por maior produtividade em operações de soldagem."
+        },
+        {
+          "title": "Ásia-Pacífico",
+          "share": "24,6%",
+          "description": "A China emerge como o principal ator, atribuído ao seu setor manufatureiro expansivo e ao maior mercado automotivo do mundo."
+        },
+        {
+          "title": "Europa",
+          "share": "30%",
+          "description": "Preparado para crescimento lucrativo, especialmente na Alemanha, Espanha e França com seus setores automotivos bem estabelecidos."
+        }
+      ]
+    },
+    "productProps": {
+      "subtitle": "Proposições de Produto",
+      "title": "Soluções Tecnológicas Revolucionárias",
+      "description": "Nossas soluções inovadoras de soldagem a laser abordam os desafios fundamentais da indústria através de quatro proposições centrais.",
+      "items": [
+        {
+          "title": "Revolucionando o Método Tradicional",
+          "description": "Otimizando processos, reduzindo custos e simplificando operações para remodelar fundamentalmente o panorama das práticas de soldagem a laser para um futuro mais eficiente e econômico."
+        },
+        {
+          "title": "Precisão Adaptativa no Controle de Temperatura",
+          "description": "Tecnologia inovadora de controle de temperatura adaptativa que responde à emissividade variável do material, garantindo gestão precisa da temperatura que se ajusta perfeitamente às propriedades distintivas do material."
+        },
+        {
+          "title": "Eficiência de Soldagem através da Automação",
+          "description": "Soluções práticas que permitem soldagem automática para diversos objetos de processamento, reduzindo a necessidade de supervisão humana constante e simplificando abrangentemente os fluxos de trabalho."
+        },
+        {
+          "title": "A Versatilidade da Lente a Laser Três em Um",
+          "description": "Lente a laser revolucionária três em um que integra tecnologia a laser, capacidades de medição de temperatura e uma câmera integrada, significando uma mudança em direção a operações totalmente automáticas."
+        }
+      ]
+    },
+    "contact": {
+      "subtitle": "Entre em Contato",
+      "title": "Vamos Construir Algo Grande Juntos",
+      "description": "Pronto para transformar seu processo de fabricação? Entre em contato com nossa equipe para discutir como nossas soluções de soldagem a laser podem elevar sua produção.",
+      "email": {
+        "label": "E-mail"
+      },
+      "form": {
+        "title": "Envie-nos uma Mensagem",
+        "name": "Nome",
+        "namePlaceholder": "Seu nome",
+        "email": "E-mail",
+        "emailPlaceholder": "seu.email@exemplo.com",
+        "subject": "Assunto",
+        "subjectPlaceholder": "Como podemos ajudá-lo?",
+        "message": "Mensagem",
+        "messagePlaceholder": "Conte-nos sobre seu projeto ou consulta...",
+        "submit": "Enviar Mensagem",
+        "submitting": "Enviando...",
+        "success": "Mensagem enviada com sucesso! Entraremos em contato em breve."
+      }
+    }
+  },
+  "footer": {
+    "description": "Fornecedor líder global de equipamentos inteligentes de soldagem a laser. Revolucionando a fabricação de precisão através de tecnologia inovadora.",
+    "quickLinks": "Links Rápidos",
+    "more": "Mais",
+    "copyright": "© {year} LSWEE. Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  },
+  "metadata": {
+    "title": "LSWEE - Fornecedor Líder Global de Equipamentos Inteligentes de Soldagem a Laser",
+    "description": "Revolucionando a fabricação de precisão com sistemas inteligentes de soldagem a laser. Fornecedor líder global de soluções de fabricação automatizada para microeletrônica, conectores e comunicação óptica."
+  }
+}
+

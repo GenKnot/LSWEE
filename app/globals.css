@@ -1,26 +1,56 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+body {
+  font-family: var(--font-inter), -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'liga' 1, 'calt' 1;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@supports (font-variation-settings: normal) {
+  body {
+    font-optical-sizing: auto;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.hero-title,
+.hero-subtitle {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+@supports (-webkit-appearance: none) {
+  body {
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+  
+  .hero-title {
+    font-size: clamp(2rem, 5vw, 4.5rem);
+    -webkit-font-feature-settings: 'liga' 1, 'calt' 1;
+  }
+  
+  .hero-subtitle {
+    font-size: clamp(1.125rem, 2.5vw, 1.75rem);
+    -webkit-font-feature-settings: 'liga' 1, 'calt' 1;
+  }
+}
+
+@keyframes float-slow {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  25% {
+    transform: translate(30px, -30px) scale(1.1);
+  }
+  50% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+  75% {
+    transform: translate(20px, 30px) scale(1.05);
+  }
+}
+
+.animate-float-slow {
+  animation: float-slow 20s ease-in-out infinite;
 }

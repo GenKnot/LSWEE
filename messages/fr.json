@@ -1,0 +1,252 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "industries": "Industries",
+    "innovation": "Innovation",
+    "partnerships": "Partenariats",
+    "contact": "Contact",
+    "solutions": "Solutions",
+    "advantages": "Avantages",
+    "team": "Équipe"
+  },
+  "home": {
+    "hero": {
+      "title": "Révolutionner la Fabrication de Précision",
+      "subtitle": "Principal fournisseur mondial d'équipements de soudage laser intelligents",
+      "cta": "Explorer les Solutions",
+      "cta2": "En Savoir Plus"
+    },
+    "company": {
+      "subtitle": "À propos de LSWEE",
+      "title": "Leader de la Nouvelle Ère de Fabrication Intelligente",
+      "description": "Issu d'une collaboration visionnaire avec l'Université de Technologie de Wuhan, LSWEE se consacre à révolutionner la fabrication. Nous proposons des machines de soudage laser intelligentes et des solutions d'automatisation personnalisées, aspirant à devenir le principal fournisseur mondial d'équipements de soudage laser et un pionnier des solutions de fabrication intelligentes.",
+      "mission": {
+        "title": "Notre Mission",
+        "description": "Résoudre les goulots d'étranglement techniques des méthodes de soudage traditionnelles grâce à des systèmes de contrôle de soudage laser intelligents, offrant un support technique exceptionnel pour la fabrication de précision."
+      },
+      "vision": {
+        "title": "Notre Vision",
+        "description": "Devenir un leader mondial de la technologie de soudage laser, stimulant l'innovation technologique dans la microélectronique, les connecteurs et les communications optiques."
+      },
+      "partnership": {
+        "title": "Fondation de Partenariat Solide",
+        "description": "Collaboration approfondie avec l'Université de Technologie de Wuhan et l'Université des Sciences et Technologies de Huazhong, construisant un système d'innovation intégré avec 22 brevets accordés et 20 brevets en cours."
+      }
+    },
+    "challenges": {
+      "subtitle": "Points de Douleur de l'Industrie",
+      "title": "Défis du Soudage Traditionnel",
+      "description": "Avec la miniaturisation des appareils électroniques et la demande croissante d'interconnexions à haute densité, les méthodes de soudage traditionnelles ne peuvent plus répondre aux exigences modernes de fabrication de précision.",
+      "items": [
+        {
+          "title": "Miniaturisation des Appareils",
+          "description": "La réduction continue des volumes des appareils électroniques et des circuits pose des exigences sans précédent en matière de précision et de fiabilité du soudage."
+        },
+        {
+          "title": "Interconnexion à Haute Densité",
+          "description": "Réaliser un soudage précis à l'échelle du micron tout en évitant les ponts et les interférences nécessite des systèmes de contrôle plus intelligents."
+        },
+        {
+          "title": "Goulot d'Étranglement du Contrôle Qualité",
+          "description": "Le contrôle précis pendant le soudage laser est crucial pour assurer la qualité du produit, mais les méthodes traditionnelles peinent à y parvenir."
+        }
+      ]
+    },
+    "solutions": {
+      "subtitle": "Nos Solutions",
+      "title": "Système de Soudage Laser Intelligent",
+      "description": "Le système de contrôle de soudage laser intelligent de LSWEE résout complètement les défis techniques du soudage traditionnel grâce à un contrôle précis de la température et des processus automatisés.",
+      "items": [
+        {
+          "title": "Support de Traitement de Précision",
+          "description": "Fournit un support technique puissant pour le traitement et la fabrication de précision de produits microélectroniques, répondant aux exigences de processus les plus strictes."
+        },
+        {
+          "title": "Contrôle de Température Intelligent",
+          "description": "Les algorithmes de base réalisent un contrôle précis du soudage laser, réduisant considérablement l'impact thermique et garantissant la qualité et la fiabilité du soudage."
+        },
+        {
+          "title": "Applications Multi-Domaines",
+          "description": "Largement appliqué dans la microélectronique, les connecteurs et les communications optiques, devenant le choix fiable pour la fabrication de précision."
+        }
+      ]
+    },
+    "advantages": {
+      "subtitle": "Avantages Principaux",
+      "title": "Pourquoi Choisir LSWEE",
+      "description": "Notre innovation technologique et notre équipe professionnelle garantissent des solutions de soudage laser leaders du secteur pour nos clients.",
+      "items": [
+        {
+          "title": "Système de Contrôle Intelligent",
+          "description": "Système de contrôle de soudage laser propriétaire qui réduit considérablement l'impact thermique sur les pièces, garantissant la qualité du soudage."
+        },
+        {
+          "title": "Précision des Petits Joints",
+          "description": "Spécialisé dans le soudage au niveau du micron des connecteurs et des circuits imprimés flexibles, réduisant efficacement les phénomènes de pontage."
+        },
+        {
+          "title": "Technologie Adaptative",
+          "description": "Lentille laser trois-en-un révolutionnaire intégrant laser, mesure de température et imagerie pour une automatisation complète."
+        },
+        {
+          "title": "Innovation Prospective",
+          "description": "R&D continue pour répondre aux besoins des industries émergentes comme l'IoT, l'IA et les nouvelles énergies."
+        }
+      ]
+    },
+    "stats": {
+      "subtitle": "En Chiffres",
+      "title": "Nos Réalisations",
+      "items": [
+        {
+          "value": "22+",
+          "label": "Brevets Accordés"
+        },
+        {
+          "value": "20+",
+          "label": "Brevets en Cours"
+        },
+        {
+          "value": "$102M",
+          "label": "Revenus Projetés sur 5 Ans"
+        },
+        {
+          "value": "67%+",
+          "label": "Marge Bénéficiaire Nette Attendue"
+        }
+      ]
+    },
+    "team": {
+      "subtitle": "Équipe Professionnelle",
+      "title": "Équipe de Direction Expérimentée",
+      "description": "Notre équipe de direction possède des antécédents industriels profonds et des perspectives internationales, engagée à stimuler l'innovation dans la technologie de soudage laser.",
+      "members": [
+        {
+          "name": "Dr. Liu",
+          "title": "Conseiller Technologique en Chef",
+          "description": "Expert renommé en soudage laser avec des contributions exceptionnelles dans le traitement de précision et la recherche sur les matériaux.",
+          "initials": "DL"
+        },
+        {
+          "name": "Ray Yam",
+          "title": "Directeur Général",
+          "description": "30 ans d'expérience dans l'électronique grand public, ancien cadre dans plusieurs entreprises renommées, expert en opérations commerciales interculturelles.",
+          "initials": "RY"
+        },
+        {
+          "name": "Yiwei Li",
+          "title": "Directeur des Opérations",
+          "description": "Expert senior de l'industrie ICT, spécialisé dans le développement commercial gouvernemental et d'entreprise et l'expansion du marché international.",
+          "initials": "YL"
+        },
+        {
+          "name": "Ziting Wang",
+          "title": "Directrice Marketing",
+          "description": "Master en économie, vaste expérience dans les projets marketing et l'analyse stratégique sur divers marchés, y compris l'Amérique du Nord.",
+          "initials": "ZW"
+        },
+        {
+          "name": "Yufei Mou",
+          "title": "Directeur Financier",
+          "description": "Directeur au Fonds d'Investissement Innovation de China Resources, vaste expérience dans les opérations de capital et la gestion d'investissement.",
+          "initials": "YM"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Commencez Votre Voyage de Fabrication Intelligente",
+      "description": "Associez-vous à LSWEE pour accéder aux solutions de soudage laser leaders du secteur qui améliorent votre efficacité de production et la qualité de vos produits.",
+      "primary": "Contactez-Nous",
+      "secondary": "Télécharger la Brochure"
+    },
+    "market": {
+      "subtitle": "Opportunité de Marché",
+      "title": "Demande Croissante dans les Industries Émergentes",
+      "description": "La montée en puissance des industries émergentes telles que l'IoT, la conduite autonome et l'intelligence artificielle a catalysé une demande croissante pour des capteurs haute performance, des puces de traitement de stockage et des circuits intégrés miniaturisés.",
+      "marketSize": {
+        "value": "$1,76Md",
+        "label": "Valeur Marchande Projetée d'ici 2029"
+      },
+      "cagr": {
+        "value": "4,10%",
+        "label": "TCAC (2022-2029)"
+      },
+      "regions": [
+        {
+          "title": "Amérique du Nord",
+          "share": "27%+",
+          "description": "Domine avec la plus grande part de marché, alimentée par la demande croissante d'amélioration de la productivité dans les opérations de soudage."
+        },
+        {
+          "title": "Asie-Pacifique",
+          "share": "24,6%",
+          "description": "La Chine émerge comme acteur clé, attribuée à son secteur manufacturier expansif et au plus grand marché automobile du monde."
+        },
+        {
+          "title": "Europe",
+          "share": "30%",
+          "description": "Prête pour une croissance lucrative, notamment en Allemagne, en Espagne et en France avec leurs secteurs automobiles bien établis."
+        }
+      ]
+    },
+    "productProps": {
+      "subtitle": "Propositions de Produit",
+      "title": "Solutions Technologiques Révolutionnaires",
+      "description": "Nos solutions innovantes de soudage laser répondent aux défis fondamentaux de l'industrie à travers quatre propositions principales.",
+      "items": [
+        {
+          "title": "Révolutionner la Méthode Traditionnelle",
+          "description": "Rationaliser les processus, réduire les coûts et simplifier les opérations pour remodeler fondamentalement le paysage des pratiques de soudage laser pour un avenir plus efficace et rentable."
+        },
+        {
+          "title": "Précision Adaptative dans le Contrôle de Température",
+          "description": "Technologie innovante de contrôle de température adaptative qui répond à l'émissivité variable des matériaux, assurant une gestion précise de la température qui s'ajuste harmonieusement aux propriétés distinctives des matériaux."
+        },
+        {
+          "title": "Efficacité du Soudage par l'Automatisation",
+          "description": "Solutions pratiques permettant le soudage automatique pour divers objets de traitement, réduisant le besoin de surveillance humaine constante et simplifiant globalement les flux de travail."
+        },
+        {
+          "title": "La Polyvalence de la Lentille Laser Trois-en-Un",
+          "description": "Lentille laser trois-en-un révolutionnaire intégrant la technologie laser, les capacités de mesure de température et une caméra intégrée, signifiant un passage vers des opérations entièrement automatiques."
+        }
+      ]
+    },
+    "contact": {
+      "subtitle": "Contactez-Nous",
+      "title": "Créons Ensemble Quelque Chose de Grand",
+      "description": "Prêt à transformer votre processus de fabrication ? Contactez notre équipe pour discuter de la manière dont nos solutions de soudage laser peuvent améliorer votre production.",
+      "email": {
+        "label": "Email"
+      },
+      "form": {
+        "title": "Envoyez-nous un Message",
+        "name": "Nom",
+        "namePlaceholder": "Votre nom",
+        "email": "Email",
+        "emailPlaceholder": "votre.email@exemple.com",
+        "subject": "Sujet",
+        "subjectPlaceholder": "En quoi pouvons-nous vous aider ?",
+        "message": "Message",
+        "messagePlaceholder": "Parlez-nous de votre projet ou de votre demande...",
+        "submit": "Envoyer le Message",
+        "submitting": "Envoi en cours...",
+        "success": "Message envoyé avec succès ! Nous vous répondrons bientôt."
+      }
+    }
+  },
+  "footer": {
+    "description": "Principal fournisseur mondial d'équipements de soudage laser intelligents. Révolutionner la fabrication de précision grâce à une technologie innovante.",
+    "quickLinks": "Liens Rapides",
+    "more": "Plus",
+    "copyright": "© {year} LSWEE. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions de Service"
+  },
+  "metadata": {
+    "title": "LSWEE - Principal Fournisseur Mondial d'Équipements de Soudage Laser Intelligents",
+    "description": "Révolutionner la fabrication de précision avec des systèmes de soudage laser intelligents. Principal fournisseur mondial de solutions de fabrication automatisées pour la microélectronique, les connecteurs et les communications optiques."
+  }
+}
