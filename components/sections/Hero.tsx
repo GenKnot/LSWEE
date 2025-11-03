@@ -37,13 +37,13 @@ export default function Hero() {
           <div className="grid lg:grid-cols-12 gap-6 md:gap-8 lg:gap-16 items-center">
             
             <div className="lg:col-span-6 space-y-6 md:space-y-8 text-white">
-              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight leading-[1.1] drop-shadow-lg hero-title">
+              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight leading-[1.1] drop-shadow-lg hero-title opacity-0 animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
                 {t('hero.title')}
               </h1>
-              <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-200 font-medium leading-relaxed max-w-lg drop-shadow-md hero-subtitle">
+              <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-slate-200 font-medium leading-relaxed max-w-lg drop-shadow-md hero-subtitle opacity-0 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
                 {t('hero.subtitle')}
               </p>
-              <div className="flex flex-wrap gap-3 md:gap-4">
+              <div className="flex flex-wrap gap-3 md:gap-4 opacity-0 animate-fade-in-up" style={{ animationDelay: '0.6s' }}>
                 <a
                   href="#solutions"
                   onClick={(e) => handleAnchorClick(e, '#solutions')}
@@ -61,7 +61,7 @@ export default function Hero() {
               </div>
             </div>
 
-            <div className="lg:col-span-6">
+            <div className="lg:col-span-6 opacity-0 animate-scale-in" style={{ animationDelay: '0.5s' }}>
               <div className="rounded-2xl overflow-hidden shadow-2xl">
                 <VideoPlayer />
               </div>
